@@ -8,3 +8,5 @@ To install this project on your local app
 2. Run `npm install`
 <br/>
 This will install all the dependencies required to run this NodeJS App on your local machine at port 5000 (as specified).
+
+MongoDB is used for backend so add your MongoDB URI in `config/default.json` file.
